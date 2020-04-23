@@ -6,6 +6,6 @@ Either you are a bank, a university, a research centre, a guru or a scientist fo
 <br><br>
 <a href="https://exae.co/public">#OmniscientCurrencies</a> on exae.co
 <br><br>
-<a href="https://kokoni.co/@2020">FRANCÉ</a>
+<a href="https://github.com/ojedavidea/exae.co/blob/master/INTRO.md">GITit</a> | <a href="https://kokoni.co/@2020">FRANCÉ</a>
 <br><br>
 Deutsch | Español | Français <a href="https://exae.co/about/more">...</a>~~leave empty space here~~
