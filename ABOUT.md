@@ -70,4 +70,4 @@ P·A·K·E & K·A·P·E <a href="https://exae.co/public">#OmniscientCurrencies</
 <br>
 * exae.co <em>nous utilisons souvent les monnaies omniscientes car elles s'équilibrent toutes les unes les autres sur le marché, elles sont intuitivement considérées comme leur propriété propre et délimitées par elles-mêmes, donc toutes-puissantes dans leur zone d'influence et ainsi dignes de confiance ; prendre conscience de leur pouvoir de lixiviation nous permet de les maximiser de manière appropriée</em>
 <br><br><br><br>
-<a href="https://kokoni.co/@2020">FRANCÉ</a>
+<a href="https://github.com/ojedavidea/exae.co/blob/master/ABOUT.md">GITit</a> | <a href="https://kokoni.co/@2020">FRANCÉ</a>
